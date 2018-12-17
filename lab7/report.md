@@ -70,7 +70,7 @@
 
  I have created my schemas: cadre_didactice, plan_studii and studenti. For this schemas I chose the role of owner 'guest'. For transfering the tables into these schemas I wrote SQL instructions. 
 
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task6) 
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task6.jpg) 
  
 
  
@@ -78,23 +78,23 @@
  
  For solving this task I random chose 2-3 quaries from Laboratory Work N.4 and rewrite them according to the given form. 
  
-  ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task7_1) 
+  ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task7_1.jpg) 
   
-  ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task7_2)
+  ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task7_2.jpg)
   
-  ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task7_3) 
+  ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task7_3.jpg) 
   
  **Task 8** 
  
  In order to create synonyms I use the *create synonym* comand
  
 
-![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task8_1)
+![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task8_1.jpg)
 
 
 The querryes work as before:
 
-![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task8_2) 
+![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab7/screens/task8_2.jpg) 
 
 
 
