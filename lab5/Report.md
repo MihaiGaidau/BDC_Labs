@@ -51,7 +51,7 @@ In the 3 task I also determined the biggest number from 3 using **case**
 
 In ythis example I resolve the same problem, but I used **try-catch** to determine if the date was initialized.  For some personalized error we can use RAISERROR.
 
- ![](hhttps://github.com/MihaiGaidau/BDC_Labs/blob/master/lab5/screens/ex4.jpg)
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab5/screens/ex4.jpg)
  
  
  
