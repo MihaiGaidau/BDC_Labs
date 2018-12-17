@@ -51,51 +51,51 @@
  
  **Task 1** 
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task1.JPG) 
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task1.jpg) 
  
  **Task 2**  
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task2.JPG)  
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task2.jpg)  
  
  
  **Task 3**  
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task3.JPG)  
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task3.jpg)  
 
  
  **Task 4**  
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task4.JPG)  
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task4.jpg)  
 
  
  
  **Task 5**  
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task5.JPG)  
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task5.jpg)  
 
  
  
  **Task 6**  
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task6.JPG)  
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task6.jpg)  
   
  
  
  **Task 7**  
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task7.JPG)  
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task7.jpg)  
  
 
 
  **Task 8**  
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task8.JPG)  
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task8.jpg)  
 
 
 
  **Task 9**  
  
- ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task9.JPG)  
+ ![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab9/screens/task9.jpg)  
 
 
 
