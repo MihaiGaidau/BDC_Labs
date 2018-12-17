@@ -97,7 +97,7 @@ In oder to make the task I used the top(1) function that select the first tuple 
 
 
 
-![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab6/screens/ex3)  
+![](https://github.com/MihaiGaidau/BDC_Labs/blob/master/lab6/screens/ex3.jpg)  
 
 **Task 4** 
 
